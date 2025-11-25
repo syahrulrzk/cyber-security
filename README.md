@@ -1,6 +1,6 @@
 # BELAJAR HACKING / CYBER SECURITY
 
-<img src="img/workplow.png" widhtwidth="100%" alt="Penetration Test Phases">
+<img src="img/workplow.png" width="100%" alt="Penetration Test Phases">
 
 Repositore ini berisi jalur pembelajaran dan catatan saya untuk cyber security dan penetration testing. Diorganisir berdasarkan level mulai dari fundamentals hingga advanced.
 
