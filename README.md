@@ -1,6 +1,6 @@
 # BELAJAR HACKING / CYBER SECURITY
 
-![Penetration Test Phases](img/PenetrationTestPhases.jpg)
+<img src="img/PenetrationTestPhases.jpg" width="100%" alt="Penetration Test Phases">
 
 Repositore ini berisi jalur pembelajaran dan catatan saya untuk cyber security dan penetration testing. Diorganisir berdasarkan level mulai dari fundamentals hingga advanced.
 
