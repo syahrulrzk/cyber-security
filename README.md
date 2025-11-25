@@ -7,18 +7,18 @@ Repositore ini berisi jalur pembelajaran dan catatan saya untuk cyber security d
 ## 🗺️ Cyber Security Learning Roadmap
 
 ### [Level 1 — Fundamental (Wajib Kuasai Dulu)](./Level1-Fundamental/)
-✅ 1. Linux & Command Line (lu udah kuat, mantap)
+✅ 1. Linux & Command Line
 - Permission
 - Cron job
 - systemctl
 - File system
 - Install service
 
-✅ 2. Networking (lu juga sudah kuat)
+✅ 2. Networking
 - TCP/IP, UDP
 - DNS, HTTP, HTTPS
 - Port scanning
-- Firewall (Lu udah pakai Fortigate & Sophos — advantage besar)
+- Firewall
 
 📌 3. Basic Scripting
 - Bash
@@ -41,7 +41,6 @@ Repositore ini berisi jalur pembelajaran dan catatan saya untuk cyber security d
 📍 6. OWASP ZAP (alternatif Burp)
 
 ### [Level 3 — Web Hacking (Mulai dari DVWA)](./Level3-Web-Hacking/)
-Gunakan DVWA yang barusan lu install
 
 **DVWA urutan belajarnya:**
 - Command Injection
@@ -94,12 +93,12 @@ Kalau lu mau serius:
 - Rate limit bypass
 
 ### [Level 7 — DevSecOps & Defense (optional)](./Level7-DevSecOps/)
-- WAF (lu udah pernah)
-- SIEM (lu udah pake Wazuh)
+- WAF
+- SIEM
 - Hardening
 - Logging
 - Zero-trust network
-- Container security (Docker)
+- Container security (Docker) or advance podman
 
 ## 🔥 Paket Urutan yang paling efektif buat lu mulai SEKARANG
 
